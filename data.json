@@ -1,0 +1,195 @@
+{
+  "categories": [
+    "komputer",
+    "urządzenia peryferyjne",
+    "oprogramowanie",
+    "inne"
+  ],
+  "products": [
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "myszka",
+      "model": "Logitech M705 Marathon",
+      "price": 169
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "myszka",
+      "model": "Logitech MX Vertical Ergonomic",
+      "price": 449
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "myszka",
+      "model": "HP Z5000",
+      "price": 99
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "myszka",
+      "model": "Microsoft 1850",
+      "price": 69
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "myszka",
+      "model": "Microsoft Bluetooth Mobile Mouse 3600",
+      "price": 129
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "klawiatura",
+      "model": "Logitech M705 Marathon",
+      "price": 169
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "klawiatura",
+      "model": "Logitech MX Vertical Ergonomic",
+      "price": 449
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "klawiatura",
+      "model": "HP Z5000",
+      "price": 99
+    },
+    {
+      "category": "urządzenia peryferyjne",
+      "type": "klawiatura",
+      "model": "Microsoft 1850",
+      "price": 69
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Windows",
+      "model": "10 Home",
+      "price": 777
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Windows",
+      "model": "10 PRO",
+      "price": 999
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Windows",
+      "model": "11PRO",
+      "price": 1125
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "2019",
+      "price": 400
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "2021",
+      "price": 999
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "365",
+      "price": 49
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Windows",
+      "model": "10 Home",
+      "price": 777
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Windows",
+      "model": "10 PRO",
+      "price": 999
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Windows",
+      "model": "11PRO",
+      "price": 1125
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "2019",
+      "price": 400
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "2021",
+      "price": 999
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "365",
+      "price": 49
+    },
+    {
+      "category": "komputer",
+      "type": "RAM",
+      "model": "8GB",
+      "price": 400
+    },
+    {
+      "category": "komputer",
+      "type": "RAM",
+      "model": "16GB",
+      "price": 1300
+    },
+    {
+      "category": "komputer",
+      "type": "procesor",
+      "model": "i5-11600K",
+      "price": 1200
+    },
+    {
+      "category": "komputer",
+      "type": "procesor",
+      "model": "AMD Ryzen 5 5600X",
+      "price": 1300
+    },
+    {
+      "category": "komputer",
+      "type": "procesor",
+      "model": "i5-11600K",
+      "price": 1200
+    },
+    {
+      "category": "komputer",
+      "type": "procesor",
+      "model": "AMD Ryzen 5 5600G",
+      "price": 999
+    },
+    {
+      "category": "oprogramowanie",
+      "type": "Office",
+      "model": "AMD Ryzen 7 5700G BOX",
+      "price": 1340
+    }
+  ],
+  "orders": [
+    {
+      "performer": "małgorzarta",
+      "info": "",
+      "components": [
+        {
+          "id": "2e54805d-3f4e-4cee-865b-bb17a64467d4",
+          "category": "komputer",
+          "type": "Windows",
+          "model": "10 Home",
+          "price": "777.03",
+          "info": ""
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
